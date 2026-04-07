@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Josh-service-demo"
+  description: .NET Hello World service ready for ECS deployment
+  annotations:
+    github.com/project-slug: nagmanijobs/Josh-service-demo
+spec:
+  type: service
+  owner: user:guest
+  lifecycle: experimental
