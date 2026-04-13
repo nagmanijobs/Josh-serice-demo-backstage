@@ -4,7 +4,7 @@ metadata:
   name: "Josh-service-demo"
   description: .NET Hello World service ready for ECS deployment
   annotations:
-    github.com/project-slug: nagmanijobs/Josh-service-demo
+    github.com/project-slug: nagmanijobs/josh-serice-demo-backstage
 spec:
   type: service
   owner: user:guest
